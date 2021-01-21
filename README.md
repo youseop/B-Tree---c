@@ -1,4 +1,4 @@
-[##_Image|kage@ddsryu/btqS4M9NHVH/6t8KS9RWWViuz7cjSKQos1/img.png|alignCenter|data-origin-width="0" data-origin-height="0" data-ke-mobilestyle="widthContent"|||_##]
+<img src="kage@ddsryu/btqS4M9NHVH/6t8KS9RWWViuz7cjSKQos1/img.png" width="40%">
 
 ## **B-Tree**
 
